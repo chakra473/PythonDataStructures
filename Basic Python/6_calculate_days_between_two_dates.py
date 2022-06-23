@@ -40,4 +40,4 @@ if __name__ == "__main__":
               f" \"{calculate_no_of_days_between_dates(a, b, c, x, y, z)}\"")
     except ValueError as err:
         print(err)
-        logger.error(err)
+        logger.error(f"The error is {err}")
