@@ -8,6 +8,11 @@
 
 
 def print_docs_inbuilt_func(*args):
+    """
+    This function prints documents of inbuilt functions in python
+    :param args: takes multiple arguments
+    :return: returns nothing
+    """
     for number in args:
         print(number)
 
