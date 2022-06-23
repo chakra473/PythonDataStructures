@@ -8,3 +8,7 @@ Python Code for Checking Specified Value present in group of Values
 2022-06-23 21:08:54,816 user name who is running the code is chakravarthy
 2022-06-23 21:09:05,961 list of values user enters is [5, 7, 3, 1]
 2022-06-23 21:09:05,961 the given value 3 is present in the group of values
+2022-06-23 21:49:35,892 TITLE
+Python Code for Creating histogram from list of integers
+2022-06-23 21:49:35,892 user name who is running the code is chakravarthy
+2022-06-23 21:49:35,893 list of values user enters is [12, 3, 1, 5, 18]
