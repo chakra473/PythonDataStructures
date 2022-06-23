@@ -31,6 +31,7 @@ if __name__ == "__main__":
         x, y, z = (input("enter the last date in Year month day format: ").split())
         x, y, z = [int(i) for i in [x, y, z]]
         a, b, c = [int(j) for j in [a, b, c]]
+        logger.info("input is correct")
         print(f"Difference between these two dates \"{a}-{b}-{c}\" and \"{x}-{y}-{z}\" is"
               f" \"{calculate_no_of_days_between_dates(a, b, c, x, y, z)}\"")
     except ValueError as err:
