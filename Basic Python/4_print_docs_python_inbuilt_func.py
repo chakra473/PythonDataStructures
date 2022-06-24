@@ -18,4 +18,5 @@ def print_docs_inbuilt_func(*args):
 
 
 if __name__ == "__main__":
-    print_docs_inbuilt_func(abs.__doc__, abs(5), int.__doc__, range.__doc__, list.__module__)
+    d = abs.__doc__
+    print_docs_inbuilt_func(d)
