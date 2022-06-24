@@ -72,3 +72,157 @@ Python Code for print out a set containing all the colors from color_list_1 whic
 2022-06-24 14:36:48,460 [INFO] color_list1 = "{'red', 'yellow', 'white', 'orange'}"
 2022-06-24 14:36:48,460 [INFO] color_list2 = "{'orange', 'black', 'blue'}"
 2022-06-24 14:36:48,460 [INFO] elements in color_list1 which is not in color_list1 = "{'red', 'yellow', 'white'}"
+2022-06-24 20:11:36,809 [INFO] TITLE
+Python Code for print out a set containing all the colors from color_list_1 which are not present in color_list_2 
+2022-06-24 20:11:36,809 [INFO] user name who is running the code is chakravarthy
+2022-06-24 20:11:52,072 [INFO] user entered file name is newfile.log
+2022-06-24 20:11:52,072 [INFO] the given file newfile.log exists
+2022-06-24 20:12:54,040 [INFO] TITLE
+Python Code for print out a set containing all the colors from color_list_1 which are not present in color_list_2 
+2022-06-24 20:12:54,040 [INFO] user name who is running the code is chakravarthy
+2022-06-24 20:13:05,819 [INFO] user entered file name is debug.log
+2022-06-24 20:13:05,819 [INFO] the file debug.log does not exists
+2022-06-24 20:14:22,851 [INFO] TITLE
+Python Code for checking file exists or not 
+2022-06-24 20:14:22,851 [INFO] user name who is running the code is chakra
+2022-06-24 20:14:31,358 [INFO] user entered file name is newfile.log
+2022-06-24 20:14:31,358 [INFO] the file newfile.log exists
+2022-06-24 20:21:51,944 [INFO] TITLE
+Python Code for checking file exists or not 
+2022-06-24 20:21:51,944 [INFO] user name who is running the code is chakra
+2022-06-24 20:26:00,161 [INFO] TITLE
+Python Code for checking file exists or not 
+2022-06-24 20:26:00,161 [INFO] user name who is running the code is chakravarthy
+2022-06-24 20:26:06,559 [INFO] user entered command is dir
+2022-06-24 20:26:06,575 [INFO] output of this code is None
+2022-06-24 20:26:47,558 [INFO] TITLE
+Python Code for checking file exists or not 
+2022-06-24 20:26:47,559 [INFO] user name who is running the code is chakra
+2022-06-24 20:27:08,127 [INFO] user entered command is notepad
+2022-06-24 20:27:11,780 [INFO] output of this code is 0
+2022-06-24 20:27:28,827 [INFO] TITLE
+Python Code for checking file exists or not 
+2022-06-24 20:27:28,827 [INFO] user name who is running the code is chakra
+2022-06-24 20:27:41,783 [INFO] user entered command is ipconfig
+2022-06-24 20:27:41,870 [INFO] output of this code is 0
+2022-06-24 20:28:57,441 [INFO] TITLE
+Python Code for checking file exists or not 
+2022-06-24 20:28:57,441 [INFO] user name who is running the code is chakra
+2022-06-24 20:28:59,693 [INFO] user entered command is dir
+2022-06-24 20:28:59,710 [INFO] output of this code is 0
+2022-06-24 20:32:42,081 [INFO] TITLE
+Python Code for calling external command in pyton 
+2022-06-24 20:32:42,081 [INFO] user name who is running the code is chakra
+2022-06-24 20:32:46,072 [INFO] user entered command is dir
+2022-06-24 20:37:29,191 [INFO] TITLE
+Python Code for finding number of CPUs used
+2022-06-24 20:37:29,191 [INFO] user name who is running the code is chakra
+2022-06-24 20:37:29,191 [INFO] number of CPUs used is/are 4
+2022-06-24 21:07:11,212 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:07:11,212 [INFO] user name who is running the code is chakra
+2022-06-24 21:07:22,410 [INFO] name of the directory user entered is Basic Python
+2022-06-24 21:07:34,026 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:07:34,026 [INFO] user name who is running the code is chakra
+2022-06-24 21:08:18,987 [INFO] name of the directory user entered is /Basic Python
+2022-06-24 21:09:04,822 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:09:04,822 [INFO] user name who is running the code is chakra
+2022-06-24 21:09:27,140 [INFO] name of the directory user entered is Basic Python
+2022-06-24 21:09:42,320 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:09:42,320 [INFO] user name who is running the code is chakra
+2022-06-24 21:09:46,438 [INFO] name of the directory user entered is D:\BRIDGLABZ_PYTHON\PythonDataStructure\Basic Python
+2022-06-24 21:09:46,439 [INFO] Lists of all the files in the directory D:\BRIDGLABZ_PYTHON\PythonDataStructure\Basic Python are ['10_print_element_from_list1_not_in_list2.py', '11_check_file_exists.py', '12_call_external_command_in_python.py', '13_find_no_of_cpu.py', '14_list_all_files_in_directory.py', '1_user_name.py', '2_generate_tuple_and_list.py', '3_display_first_last_elemens.py', '4_print_docs_python_inbuilt_func.py', '5_print_calendar_of_given_month_and_year.py', '6_calculate_days_between_two_dates.py', '7_check_value_contain_in_group_list.py', '8_create_histogram_from_list.py', '9_concatenate_list.py', 'logger_config.py', 'newfile.log']
+2022-06-24 21:16:28,114 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:16:28,114 [INFO] user name who is running the code is chakra
+2022-06-24 21:16:36,035 [INFO] name of the directory user entered is D:\BRIDGLABZ_PYTHON\PythonDataStructure\Basic Python
+2022-06-24 21:16:36,036 [INFO] 10_print_element_from_list1_not_in_list2.py
+2022-06-24 21:16:36,037 [INFO] 11_check_file_exists.py
+2022-06-24 21:16:36,037 [INFO] 12_call_external_command_in_python.py
+2022-06-24 21:16:36,037 [INFO] 13_find_no_of_cpu.py
+2022-06-24 21:16:36,037 [INFO] 14_list_all_files_in_directory.py
+2022-06-24 21:16:36,037 [INFO] 1_user_name.py
+2022-06-24 21:16:36,037 [INFO] 2_generate_tuple_and_list.py
+2022-06-24 21:16:36,038 [INFO] 3_display_first_last_elemens.py
+2022-06-24 21:16:36,038 [INFO] 4_print_docs_python_inbuilt_func.py
+2022-06-24 21:16:36,038 [INFO] 5_print_calendar_of_given_month_and_year.py
+2022-06-24 21:16:36,038 [INFO] 6_calculate_days_between_two_dates.py
+2022-06-24 21:16:36,038 [INFO] 7_check_value_contain_in_group_list.py
+2022-06-24 21:16:36,039 [INFO] 8_create_histogram_from_list.py
+2022-06-24 21:16:36,039 [INFO] 9_concatenate_list.py
+2022-06-24 21:16:36,039 [INFO] logger_config.py
+2022-06-24 21:16:36,039 [INFO] newfile.log
+2022-06-24 21:21:35,943 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:21:35,943 [INFO] user name who is running the code is chakra
+2022-06-24 21:21:43,972 [INFO] name of the directory user entered is D:\BRIDGLABZ_PYTHON\PythonDataStructure
+2022-06-24 21:21:43,973 [INFO] .gitignore
+2022-06-24 21:21:43,973 [INFO] README.md
+2022-06-24 21:21:59,595 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:21:59,595 [INFO] user name who is running the code is chakra
+2022-06-24 21:22:09,355 [INFO] name of the directory user entered is D:\BRIDGLABZ_PYTHON
+2022-06-24 21:22:49,126 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:22:49,126 [INFO] user name who is running the code is chakra
+2022-06-24 21:22:51,810 [INFO] name of the directory user entered is D:\BRIDGLABZ_PYTHON\Practice_problems
+2022-06-24 21:22:51,812 [INFO] args_and_kwargs.py
+2022-06-24 21:22:51,813 [INFO] class.py
+2022-06-24 21:22:51,813 [INFO] cmp_method.py
+2022-06-24 21:22:51,813 [INFO] concat.py
+2022-06-24 21:22:51,813 [INFO] data_types.py
+2022-06-24 21:22:51,813 [INFO] debug.log
+2022-06-24 21:22:51,813 [INFO] dyntax
+2022-06-24 21:22:51,813 [INFO] exception_handling.py
+2022-06-24 21:22:51,813 [INFO] forloop.py
+2022-06-24 21:22:51,813 [INFO] form.html
+2022-06-24 21:22:51,813 [INFO] hi.json
+2022-06-24 21:22:51,813 [INFO] json_demo.py
+2022-06-24 21:22:51,813 [INFO] json_test_file.json
+2022-06-24 21:22:51,814 [INFO] list.py
+2022-06-24 21:22:51,814 [INFO] logger_config.py
+2022-06-24 21:22:51,814 [INFO] logging_demo.py
+2022-06-24 21:22:51,814 [INFO] log_file_handler.py
+2022-06-24 21:22:51,814 [INFO] loops.py
+2022-06-24 21:22:51,814 [INFO] myfile.txt
+2022-06-24 21:22:51,814 [INFO] naming_convention.py
+2022-06-24 21:22:51,814 [INFO] newfile.log
+2022-06-24 21:22:51,814 [INFO] promo_code.py
+2022-06-24 21:22:51,814 [INFO] promo_code.txt
+2022-06-24 21:22:51,814 [INFO] read_write_files.py
+2022-06-24 21:22:51,814 [INFO] sample.json
+2022-06-24 21:22:51,814 [INFO] sliced_array.py
+2022-06-24 21:22:51,814 [INFO] strftime.py
+2022-06-24 21:22:51,815 [INFO] switch_case.py
+2022-06-24 21:22:51,815 [INFO] syntax.py
+2022-06-24 21:41:17,356 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 21:41:17,356 [INFO] user name who is running the code is chakra
+2022-06-24 21:41:34,272 [INFO] name of the directory user entered is D:\BRIDGLABZ_PYTHON\PythonDataStructure\Basic Python
+2022-06-24 21:41:34,274 [INFO] 10_print_element_from_list1_not_in_list2.py
+2022-06-24 21:41:34,274 [INFO] 11_check_file_exists.py
+2022-06-24 21:41:34,274 [INFO] 12_call_external_command_in_python.py
+2022-06-24 21:41:34,274 [INFO] 13_find_no_of_cpu.py
+2022-06-24 21:41:34,274 [INFO] 14_list_all_files_in_directory.py
+2022-06-24 21:41:34,274 [INFO] 15_access_environmental_variables.py
+2022-06-24 21:41:34,275 [INFO] 1_user_name.py
+2022-06-24 21:41:34,275 [INFO] 2_generate_tuple_and_list.py
+2022-06-24 21:41:34,275 [INFO] 3_display_first_last_elemens.py
+2022-06-24 21:41:34,275 [INFO] 4_print_docs_python_inbuilt_func.py
+2022-06-24 21:41:34,275 [INFO] 5_print_calendar_of_given_month_and_year.py
+2022-06-24 21:41:34,275 [INFO] 6_calculate_days_between_two_dates.py
+2022-06-24 21:41:34,276 [INFO] 7_check_value_contain_in_group_list.py
+2022-06-24 21:41:34,276 [INFO] 8_create_histogram_from_list.py
+2022-06-24 21:41:34,276 [INFO] 9_concatenate_list.py
+2022-06-24 21:41:34,276 [INFO] logger_config.py
+2022-06-24 21:41:34,276 [INFO] newfile.log
+2022-06-24 22:03:36,001 [INFO] TITLE
+Python program to list all files in a directory in Python
+2022-06-24 22:03:36,001 [INFO] user name who is running the code is chakra
+2022-06-24 22:04:31,040 [INFO]  user entered  variable is  OneDrive
+2022-06-24 22:04:31,040 [INFO] accessing all the environmental variables environ({'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\chakravarthy\\AppData\\Roaming', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'COMPUTERNAME': 'CHAKRA-LAPTOP', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEDRIVE': 'C:', 'HOMEPATH': '\\Users\\chakravarthy', 'IDEA_INITIAL_DIRECTORY': 'C:\\WINDOWS\\System32', 'LOCALAPPDATA': 'C:\\Users\\chakravarthy\\AppData\\Local', 'LOGONSERVER': '\\\\CHAKRA-LAPTOP', 'NUMBER_OF_PROCESSORS': '4', 'ONEDRIVE': 'C:\\Users\\chakravarthy\\OneDrive', 'ONEDRIVECONSUMER': 'C:\\Users\\chakravarthy\\OneDrive', 'OS': 'Windows_NT', 'PATH': 'D:\\new\\Scripts;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\MongoDB\\Server\\5.0\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\chakravarthy\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\;C:\\Users\\chakravarthy\\AppData\\Local\\Programs\\Python\\Python38\\;C:\\Users\\chakravarthy\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\chakravarthy\\AppData\\Local\\Programs\\Microsoft VS Code\\bin', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 142 Stepping 9, GenuineIntel', 'PROCESSOR_LEVEL': '6', 'PROCESSOR_REVISION': '8e09', 'PROGRAMDATA': 'C:\\ProgramData', 'PROGRAMFILES': 'C:\\Program Files', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'PROGRAMW6432': 'C:\\Program Files', 'PROMPT': '(new) $P$G', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'PUBLIC': 'C:\\Users\\Public', 'PYCHARM_HOSTED': '1', 'PYTHONIOENCODING': 'UTF-8', 'PYTHONPATH': 'D:\\BRIDGLABZ_PYTHON\\PythonDataStructure;D:\\BRIDGLABZ_PYTHON\\Practice_problems', 'PYTHONUNBUFFERED': '1', 'SESSIONNAME': 'Console', 'SYSTEMDRIVE': 'C:', 'SYSTEMROOT': 'C:\\WINDOWS', 'TEMP': 'C:\\Users\\CHAKRA~1\\AppData\\Local\\Temp', 'TMP': 'C:\\Users\\CHAKRA~1\\AppData\\Local\\Temp', 'USERDOMAIN': 'CHAKRA-LAPTOP', 'USERDOMAIN_ROAMINGPROFILE': 'CHAKRA-LAPTOP', 'USERNAME': 'chakravarthy', 'USERPROFILE': 'C:\\Users\\chakravarthy', 'VIRTUAL_ENV': 'D:\\new', 'WINDIR': 'C:\\WINDOWS', '_OLD_VIRTUAL_PATH': 'C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\MongoDB\\Server\\5.0\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\chakravarthy\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\;C:\\Users\\chakravarthy\\AppData\\Local\\Programs\\Python\\Python38\\;C:\\Users\\chakravarthy\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\chakravarthy\\AppData\\Local\\Programs\\Microsoft VS Code\\bin', '_OLD_VIRTUAL_PROMPT': '$P$G'})
+2022-06-24 22:04:31,051 [INFO] **---------------------***
+2022-06-24 22:04:31,051 [INFO] accessing particular environmental variable C:\Users\chakravarthy\OneDrive
