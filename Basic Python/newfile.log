@@ -44,3 +44,13 @@ Python Code for Calculating number of days between two days
 2022-06-24 13:26:57,714 [INFO] user name who is running the code is chakravarthy
 2022-06-24 13:27:39,970 [INFO] input is correct
 2022-06-24 13:27:39,970 [INFO] Difference between these two dates "2009-5-15" and "2022-6-24" is 4788
+2022-06-24 14:10:18,653 [INFO] TITLE
+Python Code for Concatenating list into a string
+2022-06-24 14:10:18,653 [INFO] user name who is running the code is chakravarthy
+2022-06-24 14:10:47,987 [INFO] list of values user enters is ['hello', 'chakra', 'how are you', 'im fine', 'bye']
+2022-06-24 14:10:47,987 [INFO] Concatenated list in a string is  hello chakra how are you im fine bye
+2022-06-24 14:12:02,889 [INFO] TITLE
+Python Code for Concatenating list into a string
+2022-06-24 14:12:02,889 [INFO] user name who is running the code is chakravarthy
+2022-06-24 14:12:31,905 [INFO] list of values user enters is ['hi', 'hello', 'good morning']
+2022-06-24 14:12:31,905 [INFO] Concatenated list is " hi hello good morning"
