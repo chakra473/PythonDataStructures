@@ -54,3 +54,21 @@ Python Code for Concatenating list into a string
 2022-06-24 14:12:02,889 [INFO] user name who is running the code is chakravarthy
 2022-06-24 14:12:31,905 [INFO] list of values user enters is ['hi', 'hello', 'good morning']
 2022-06-24 14:12:31,905 [INFO] Concatenated list is " hi hello good morning"
+2022-06-24 14:32:49,930 [INFO] TITLE
+Python Code for Concatenating list into a string
+2022-06-24 14:32:49,930 [INFO] user name who is running the code is chakravarthy
+2022-06-24 14:33:45,528 [INFO] TITLE
+Python Code for print out a set containing all the colors from color_list_1 which are not present in color_list_2 
+2022-06-24 14:33:45,528 [INFO] user name who is running the code is chakravarthy
+2022-06-24 14:34:17,046 [INFO] color_list1 = "{'orange', 'blue', 'green', 'red'}"
+2022-06-24 14:34:17,046 [INFO] color_list2 = "{'orange', 'yellow', 'white'}"
+2022-06-24 14:34:17,046 [INFO] elements in color_list1 which is not in color_list2 = "{'orange', 'blue', 'green', 'red'}"
+2022-06-24 14:35:55,610 [INFO] TITLE
+Python Code for print out a set containing all the colors from color_list_1 which are not present in color_list_2 
+2022-06-24 14:35:55,610 [INFO] user name who is running the code is chakravarthy
+2022-06-24 14:36:21,574 [INFO] TITLE
+Python Code for print out a set containing all the colors from color_list_1 which are not present in color_list_2 
+2022-06-24 14:36:21,574 [INFO] user name who is running the code is chakravarthy
+2022-06-24 14:36:48,460 [INFO] color_list1 = "{'red', 'yellow', 'white', 'orange'}"
+2022-06-24 14:36:48,460 [INFO] color_list2 = "{'orange', 'black', 'blue'}"
+2022-06-24 14:36:48,460 [INFO] elements in color_list1 which is not in color_list1 = "{'red', 'yellow', 'white'}"
