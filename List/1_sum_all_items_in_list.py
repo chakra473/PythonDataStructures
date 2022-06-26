@@ -14,6 +14,11 @@ logger_config.logger.info(f"user name who is running the code is {user_name}")
 
 
 def sum_items_in_list(list1):
+    """
+    This method Sums all the items in the list
+    :param list1: takes list of items as an argument
+    :return:
+    """
     total = 0
     for i in list1:
         total += i
