@@ -60,6 +60,7 @@ def sort_list_with_key(list1):
 if __name__ == "__main__":
     # list =[(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
     count = int(input("\nHow many tuple you want to add in list : "))
-    list1 = [create_tuple(i) for i in range(count)]
-    sorted_list1 = sort_list_with_key(list1)
+    list_element = [create_tuple(i) for i in range(count)]
+    logger_config.logger.info(f"list of values user enters is {list_element}")
+    sorted_list1 = sort_list_with_key(list_element)
     logger_config.logger.info(f"\nSorted list based on tuple last element : {sorted_list1}")
