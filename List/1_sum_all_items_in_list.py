@@ -6,6 +6,7 @@
     @Title : Python Code to Sum all the items in list
 """
 import logger_config
+import create_list
 
 title_name = "Python Code to Sum all the items in list"
 user_name = input("enter your name: ")
@@ -26,12 +27,6 @@ def sum_items_in_list(list1):
 
 
 if __name__ == "__main__":
-    list1 = []
-    # number of elements as input
-    num = int(input("Enter number of elements : "))
-    # iterating till the range
-    for j in range(0, num):
-        ele = int(input(f"enter the value {j + 1}: "))
-        list1.append(ele)  # adding the element
+    list1 = create_list.create_int_list()
     logger_config.logger.info(f"list of values user enters is {list1}")
     logger_config.logger.info(f"sum of all the items in the list {list1} is {sum_items_in_list(list1)}")
