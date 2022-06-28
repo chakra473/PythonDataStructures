@@ -1,12 +1,20 @@
-'''
-    @Author: Madhavee Kadivar
-    @Date: 2022-05-17 06:01:50
-    @Last Modified by: Madhavee Kadivar
-    @Last Modified time: 2022-05-17 06:01:50
-    @Title : Difference between two lists
-'''
-from createlist import *
-def find_difference(list_1,list_2):    
+"""
+    @Author: Chakravarthy
+    @Date: 2022-06-26 14:13:07
+    @Last Modified by: Chakravarthy
+    @Last Modified time: 2022-06-26 14:13:15
+    @Title : Python Code to find difference between two lists
+"""
+import itertools
+
+import logger_config
+import create_list
+
+title_name = "Python Code to find difference between two lists"
+logger_config.logger.info(f"TITLE\n{title_name}")
+
+
+def find_difference(list_1, list_2):
     """ 
         Description: 
             This function is Finding difference from two list
@@ -21,13 +29,13 @@ def find_difference(list_1,list_2):
     list_difference = list(difference_1.union(difference_2))
     return list_difference
 
-from LoggingFile import *
-logger  = func()
-# Main Code
+
+def main():
+    list_1 = create_list.create_string_list()
+    list_2 = create_list.create_string_list()
+    result = find_difference(list_1, list_2)
+    logger_config.logger.info(f"\nDifference between {list_1} and {list_2} is : {result}")
+
+
 if __name__ == "__main__":
-    list_1 = create_string_list()
-    list_2 = create_string_list()
-    result = find_difference( list_1,list_2)
-    logger.info(f"\nDifference between {list_1} and {list_2} is : {result}")
-    
-    
+    main()
