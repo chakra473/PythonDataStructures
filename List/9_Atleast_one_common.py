@@ -1,15 +1,23 @@
-'''
-    @Author: Madhavee Kadivar
-    @Date: 2022-05-17 01:56:16
-    @Last Modified by: Madhavee Kadivar
-    @Last Modified time: 2022-05-17 01:56:16
-    @Title : Find atleast one common element from two list
-'''
-from createlist import *
-def find_common(list_1,list_2):    
+"""
+    @Author: Chakravarthy
+    @Date: 2022-06-26 14:13:07
+    @Last Modified by: Chakravarthy
+    @Last Modified time: 2022-06-26 14:13:15
+    @Title : Python Code to Find at least one common element two list
+"""
+import logger_config
+import create_list
+
+title_name = "Python Code to Find at least one common element two list"
+user_name = input("enter your name: ")
+logger_config.logger.info(f"TITLE\n{title_name}")
+logger_config.logger.info(f"user name who is running the code is {user_name}")
+
+
+def find_common(list_1, list_2):
     """ 
         Description: 
-            This function is Finding atleast one common element from two list
+            This function is Finding at least one common element from two list
         Parameter:
             Two List as argument
         Return:
@@ -21,13 +29,10 @@ def find_common(list_1,list_2):
     else:
         return False
 
-from LoggingFile import *
-logger  = func()
+
 # Main Code
 if __name__ == "__main__":
-    list_1 = create_string_list()
-    list_2 = create_string_list()
-    result = find_common(list_1,list_2)
-    logger.info(f"\nIs {list_1} and {list_2} have atleast one common element : {result}")
-    
-    
+    list_element_1 = create_list.create_string_list()
+    list_element_2 = create_list.create_string_list()
+    result = find_common(list_element_1, list_element_2)
+    logger_config.logger.info(f"\nIs {list_element_1} and {list_element_2} have at least one common element : {result}")
