@@ -2,3 +2,454 @@
 Python Code to Sum all the items in list
 2022-06-26 20:33:07,925 [INFO] user name who is running the code is chakra
 2022-06-26 20:33:17,456 [INFO] list of values user enters is ['10', '25', '2', '45']
+2022-06-26 20:34:42,999 [INFO] TITLE
+Python Code to Sum all the items in list
+2022-06-26 20:34:43,000 [INFO] user name who is running the code is chakra
+2022-06-26 20:34:54,417 [INFO] list of values user enters is [10, 20, 30]
+2022-06-26 20:34:54,417 [INFO] sum of all the items in the list [10, 20, 30] is 60
+2022-06-26 20:51:09,853 [INFO] TITLE
+Python Code to Multiply all the items in list
+2022-06-26 20:51:09,853 [INFO] user name who is running the code is chakra
+2022-06-26 20:51:20,089 [INFO] list of values user enters is [12, 4, 1, 1]
+2022-06-26 20:51:20,140 [INFO] Multiple of all the items in the list [12, 4, 1, 1] is 0
+2022-06-26 20:51:39,115 [INFO] TITLE
+Python Code to Multiply all the items in list
+2022-06-26 20:51:39,115 [INFO] user name who is running the code is chakra
+2022-06-26 20:51:51,686 [INFO] list of values user enters is [2, 3, 4, 5]
+2022-06-26 20:51:51,686 [INFO] Multiple of all the items in the list [2, 3, 4, 5] is 120
+2022-06-26 21:12:17,201 [INFO] TITLE
+Python Code to find the smallest number from a list
+2022-06-26 21:12:17,201 [INFO] user name who is running the code is chakra
+2022-06-26 21:12:25,458 [INFO] list of values user enters is [76, 23, 1, 0]
+2022-06-26 21:12:25,458 [INFO] Multiple of all the items in the list [76, 23, 1, 0] is 0
+2022-06-26 21:12:48,706 [INFO] TITLE
+Python Code to find the smallest number from a list
+2022-06-26 21:12:48,706 [INFO] user name who is running the code is chakra
+2022-06-26 21:12:56,180 [INFO] list of values user enters is [12, 8, 34, 45]
+2022-06-26 21:12:56,180 [INFO] Smallest element of all the items in the list [12, 8, 34, 45] is 8
+2022-06-26 21:24:01,750 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 21:24:01,750 [INFO] user name who is running the code is chakra
+2022-06-26 21:24:54,585 [INFO] list of values user enters is ['abc', 'xyz', 'aba', '1221']
+2022-06-26 21:24:54,586 [INFO] Smallest element of all the items in the list ['abc', 'xyz', 'aba', '1221'] is 2
+2022-06-26 21:27:00,025 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 21:27:00,025 [INFO] user name who is running the code is chakra
+2022-06-26 21:27:17,406 [INFO] list of values user enters is ['abc', '121', '242', 'chakra']
+2022-06-26 21:27:17,406 [INFO] The count of string having same first and last character and length is greater than 1 are :2
+2022-06-26 21:29:00,205 [INFO] TITLE
+Python Code to find the smallest number from a list
+2022-06-26 21:29:00,205 [INFO] user name who is running the code is chakra
+2022-06-26 21:29:09,699 [INFO] list of values user enters is [56, 45, 9, 7]
+2022-06-26 21:29:09,699 [INFO] Smallest element of all the items in the list [56, 45, 9, 7] is 7
+2022-06-26 21:30:20,576 [INFO] TITLE
+Python Code to Multiply all the items in list
+2022-06-26 21:30:20,576 [INFO] user name who is running the code is chakra
+2022-06-26 21:30:28,133 [INFO] list of values user enters is [4, 1, 3, 2]
+2022-06-26 21:30:28,133 [INFO] Multiple of all the items in the list [4, 1, 3, 2] is 24
+2022-06-26 21:56:47,440 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 21:56:47,440 [INFO] user name who is running the code is chakra
+2022-06-26 21:57:53,907 [INFO] 
+Sorted list based on tuple last element : [(2, 1), (2, 2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+2022-06-26 21:58:59,400 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 21:58:59,400 [INFO] user name who is running the code is chakra
+2022-06-26 21:59:31,737 [INFO] 
+Sorted list based on tuple last element : [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+2022-06-26 22:04:07,484 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:04:07,484 [INFO] user name who is running the code is chakra
+2022-06-26 22:04:17,611 [INFO] 
+New List after removing duplicates : ['3', '2', '5']
+2022-06-26 22:04:17,611 [INFO] 
+New List after removing duplicates : ['3', '5', '2']
+2022-06-26 22:25:24,042 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:25:24,042 [INFO] user name who is running the code is chakra
+2022-06-26 22:25:45,198 [INFO] 
+New List after removing duplicates : ['10', '45', '18']
+2022-06-26 22:25:45,199 [INFO] 
+New List after removing duplicates : ['45', '18', '10']
+2022-06-26 22:26:38,131 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:26:38,131 [INFO] user name who is running the code is chakra
+2022-06-26 22:26:54,005 [INFO] list of values user enters is ['10', '45', '18', '17', '45']
+2022-06-26 22:26:54,005 [INFO] 
+New List after removing duplicates : ['10', '45', '18', '17']
+2022-06-26 22:26:54,005 [INFO] 
+New List after removing duplicates : ['17', '45', '18', '10']
+2022-06-26 22:27:37,213 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:27:37,213 [INFO] user name who is running the code is chakra
+2022-06-26 22:27:48,846 [INFO] list of values user enters is ['10', '45', '45', '10', '18', '17']
+2022-06-26 22:27:48,846 [INFO] New List after removing duplicates : ['10', '45', '18', '17']
+2022-06-26 22:27:48,846 [INFO] New List after removing duplicates : ['10', '45', '17', '18']
+2022-06-26 22:54:22,756 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:54:22,756 [INFO] user name who is running the code is chakra
+2022-06-26 22:54:47,875 [INFO] list of values user enters is ['hello', 'hi', 'good', 'fair']
+2022-06-26 22:54:47,875 [INFO] ['hello', 'hi', 'good', 'fair']
+2022-06-26 22:55:22,061 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:55:22,061 [INFO] user name who is running the code is chakra
+2022-06-26 22:55:32,942 [INFO] list of values user enters is ['hi', 'good', 'hello', 'fair']
+2022-06-26 22:55:41,008 [INFO] All element having length longer than 2 are : ['good', 'hello', 'fair']
+2022-06-26 22:57:22,101 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 22:57:22,101 [INFO] user name who is running the code is chakra
+2022-06-26 22:57:52,763 [INFO] list of values user enters is [(2, 5), (1, 2), (4, 4), (3, 4), (2, 1)]
+2022-06-26 22:57:52,763 [INFO] 
+Sorted list based on tuple last element : [(2, 1), (1, 2), (4, 4), (3, 4), (2, 5)]
+2022-06-26 23:07:37,860 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-26 23:07:37,860 [INFO] user name who is running the code is chakra
+2022-06-26 23:08:33,480 [INFO] 
+Original List : 
+2022-06-26 23:08:33,481 [INFO] ['12', '10', '12', '4']
+2022-06-26 23:08:33,481 [INFO] 
+Copy list : 
+2022-06-26 23:08:33,481 [INFO] ['12', '10', '12', '4']
+2022-06-26 23:08:33,481 [INFO] ['12', '10', '12', '4']
+2022-06-26 23:08:33,481 [INFO] ['12', '10', '12', '4']
+2022-06-26 23:09:47,764 [INFO] TITLE
+Python Code to remove duplicates from list
+2022-06-26 23:09:47,764 [INFO] user name who is running the code is chakra
+2022-06-26 23:10:05,426 [INFO] list of values user enters is ['10', '45', '10', '17', '15', '18', '24', '45', '10', '23']
+2022-06-26 23:10:05,426 [INFO] New List after removing duplicates : ['10', '45', '17', '15', '18', '24', '23']
+2022-06-26 23:10:05,426 [INFO] New List after removing duplicates : ['23', '10', '24', '17', '15', '18', '45']
+2022-06-27 08:38:09,826 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 08:38:09,827 [INFO] user name who is running the code is chakra
+2022-06-27 08:38:55,280 [INFO] ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+2022-06-27 08:38:55,280 [INFO] ['Green', 'White', 'Black', 'Pink', 'Yellow']
+2022-06-27 08:38:55,281 [INFO] ['Green', 'White', 'Black', 'Yellow']
+2022-06-27 08:38:55,281 [INFO] List after removing 0th,4th and 5th index element : ['Green', 'White', 'Black']
+2022-06-27 08:47:46,548 [INFO] TITLE
+Python Code to Find at least one common element two list
+2022-06-27 08:47:46,549 [INFO] user name who is running the code is chakra
+2022-06-27 08:48:22,097 [INFO] TITLE
+Python Code to Find at least one common element two list
+2022-06-27 08:48:22,098 [INFO] user name who is running the code is chakra
+2022-06-27 08:48:46,063 [INFO] 
+Is ['chakra', 'jay', 'priya'] and ['durga', 'sasi', 'yamini'] have at least one common element : False
+2022-06-27 08:48:55,325 [INFO] TITLE
+Python Code to Find at least one common element two list
+2022-06-27 08:48:55,325 [INFO] user name who is running the code is chakra
+2022-06-27 08:49:28,102 [INFO] 
+Is ['chakra', 'durga', 'priya'] and ['sasi', 'yamini', '', ''] have at least one common element : False
+2022-06-27 08:49:37,394 [INFO] TITLE
+Python Code to Find at least one common element two list
+2022-06-27 08:49:37,394 [INFO] user name who is running the code is chakra
+2022-06-27 08:49:48,376 [INFO] 
+Is ['jay', 'chakra'] and ['jay', 'priya'] have at least one common element : True
+2022-06-27 08:52:53,558 [INFO] TITLE
+Python Code to Sum all the items in list
+2022-06-27 08:52:53,559 [INFO] user name who is running the code is chakra
+2022-06-27 08:53:07,751 [INFO] list of values user enters is [12, 5, 2, 6]
+2022-06-27 08:53:07,751 [INFO] sum of all the items in the list [12, 5, 2, 6] is 25
+2022-06-27 08:54:13,360 [INFO] TITLE
+Python Code to Multiply all the items in list
+2022-06-27 08:54:13,360 [INFO] user name who is running the code is 1
+2022-06-27 08:54:21,247 [INFO] list of values user enters is [2, 3, 4, 5]
+2022-06-27 08:54:21,247 [INFO] Multiple of all the items in the list [2, 3, 4, 5] is 120
+2022-06-27 08:56:35,111 [INFO] TITLE
+Python Code to find the smallest number from a list
+2022-06-27 08:56:35,111 [INFO] user name who is running the code is 1
+2022-06-27 08:56:41,938 [INFO] list of values user enters is [12, 43, 2]
+2022-06-27 08:56:41,938 [INFO] Smallest element of all the items in the list [12, 43, 2] is 2
+2022-06-27 08:57:37,024 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-27 08:57:37,025 [INFO] user name who is running the code is 1
+2022-06-27 08:58:07,462 [INFO] list of values user enters is ['123', '121', 'madam', '1234']
+2022-06-27 08:58:07,462 [INFO] The count of string having same first and last character and length is greater than 1 are :2
+2022-06-27 08:59:44,302 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-27 08:59:44,303 [INFO] user name who is running the code is 1
+2022-06-27 09:00:13,121 [INFO] list of values user enters is [(2, 5), (1, 2), (4, 4), (2, 3)]
+2022-06-27 09:00:13,121 [INFO] 
+Sorted list based on tuple last element : [(1, 2), (2, 3), (4, 4), (2, 5)]
+2022-06-27 09:01:13,821 [INFO] TITLE
+Python Code to remove duplicates from list
+2022-06-27 09:01:13,822 [INFO] user name who is running the code is 1
+2022-06-27 09:01:25,021 [INFO] list of values user enters is ['10', '45', '18', '10']
+2022-06-27 09:01:25,021 [INFO] New List after removing duplicates : ['10', '45', '18']
+2022-06-27 09:01:25,022 [INFO] New List after removing duplicates : ['10', '45', '18']
+2022-06-27 09:04:26,023 [INFO] TITLE
+Python Code to remove duplicates from list
+2022-06-27 09:04:26,024 [INFO] user name who is running the code is 1
+2022-06-27 09:04:38,918 [INFO] list of values user enters is ['hello', 'hi', 'goog', 'goog']
+2022-06-27 09:04:38,918 [INFO] New List after removing duplicates : ['hello', 'hi', 'goog']
+2022-06-27 09:04:38,919 [INFO] New List after removing duplicates : ['hi', 'goog', 'hello']
+2022-06-27 09:06:23,328 [INFO] TITLE
+Python Code to copy list from another list
+2022-06-27 09:06:23,329 [INFO] user name who is running the code is 1
+2022-06-27 09:06:31,812 [INFO] 
+Original List : 
+2022-06-27 09:06:31,812 [INFO] ['12', '32', '100']
+2022-06-27 09:06:31,812 [INFO] 
+Copy list : 
+2022-06-27 09:06:31,812 [INFO] ['12', '32', '100']
+2022-06-27 09:06:31,812 [INFO] ['12', '32', '100']
+2022-06-27 09:06:31,812 [INFO] ['12', '32', '100']
+2022-06-27 09:07:18,315 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 09:07:18,315 [INFO] user name who is running the code is 1
+2022-06-27 09:07:29,692 [INFO] list of values user enters is ['hi', 'hello', 'good morning']
+2022-06-27 09:07:33,805 [INFO] All element having length longer than 2 are : ['hello', 'good morning']
+2022-06-27 09:08:05,116 [INFO] TITLE
+Python Code to Find at least one common element two list
+2022-06-27 09:08:05,116 [INFO] user name who is running the code is 1
+2022-06-27 09:08:28,547 [INFO] 
+Is ['hi', 'hello', 'morning'] and ['hi', 'afternoon', 'evening'] have at least one common element : True
+2022-06-27 15:40:23,915 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 15:40:23,915 [INFO] user name who is running the code is 1
+2022-06-27 15:40:35,230 [INFO] 
+List of all permutations : 
+2022-06-27 15:40:35,230 [INFO] [('3', '5', '7'), ('3', '7', '5'), ('5', '3', '7'), ('5', '7', '3'), ('7', '3', '5'), ('7', '5', '3')]
+2022-06-27 15:40:35,230 [INFO] 
+List of all permutations : 
+2022-06-27 15:40:35,230 [INFO] ['3', '5', '7']
+2022-06-27 15:40:35,230 [INFO] ['3', '7', '5']
+2022-06-27 15:40:35,231 [INFO] ['5', '3', '7']
+2022-06-27 15:40:35,231 [INFO] ['5', '7', '3']
+2022-06-27 15:40:35,231 [INFO] ['7', '3', '5']
+2022-06-27 15:40:35,231 [INFO] ['7', '5', '3']
+2022-06-27 15:54:33,735 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 15:54:33,735 [INFO] user name who is running the code is chakra
+2022-06-27 15:54:41,321 [INFO] 
+List of all permutations : 
+2022-06-27 15:54:41,321 [INFO] [('1', '5', '3'), ('1', '3', '5'), ('5', '1', '3'), ('5', '3', '1'), ('3', '1', '5'), ('3', '5', '1')]
+2022-06-27 15:54:41,321 [INFO] 
+List of all permutations : 
+2022-06-27 15:54:41,321 [INFO] ['1', '5', '3']
+2022-06-27 15:54:41,322 [INFO] ['1', '3', '5']
+2022-06-27 15:54:41,322 [INFO] ['5', '1', '3']
+2022-06-27 15:54:41,322 [INFO] ['5', '3', '1']
+2022-06-27 15:54:41,322 [INFO] ['3', '1', '5']
+2022-06-27 15:54:41,322 [INFO] ['3', '5', '1']
+2022-06-27 15:55:36,530 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 15:55:36,530 [INFO] user name who is running the code is c
+2022-06-27 15:55:41,979 [INFO] 
+List of all permutations : 
+2022-06-27 15:55:41,980 [INFO] [('1', '5', '3'), ('1', '3', '5'), ('5', '1', '3'), ('5', '3', '1'), ('3', '1', '5'), ('3', '5', '1')]
+2022-06-27 15:55:41,980 [INFO] 
+List of all permutations : 
+2022-06-27 15:55:41,980 [INFO] ['1', '5', '3']
+2022-06-27 15:55:41,980 [INFO] ['1', '3', '5']
+2022-06-27 15:55:41,980 [INFO] ['5', '1', '3']
+2022-06-27 15:55:41,981 [INFO] ['5', '3', '1']
+2022-06-27 15:55:41,981 [INFO] ['3', '1', '5']
+2022-06-27 15:55:41,981 [INFO] ['3', '5', '1']
+2022-06-27 15:57:21,599 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 15:57:21,600 [INFO] user name who is running the code is c
+2022-06-27 15:57:26,616 [INFO] 
+List of all permutations : 
+2022-06-27 15:57:26,616 [INFO] [('1', '5', '3'), ('1', '3', '5'), ('5', '1', '3'), ('5', '3', '1'), ('3', '1', '5'), ('3', '5', '1')]
+2022-06-27 15:57:26,616 [INFO] 
+List of all permutations : 
+2022-06-27 15:57:26,616 [INFO] ['1', '5', '3']
+2022-06-27 15:57:26,617 [INFO] ['1', '3', '5']
+2022-06-27 15:57:26,617 [INFO] ['5', '1', '3']
+2022-06-27 15:57:26,617 [INFO] ['5', '3', '1']
+2022-06-27 15:57:26,617 [INFO] ['3', '1', '5']
+2022-06-27 15:57:26,618 [INFO] ['3', '5', '1']
+2022-06-27 15:59:32,740 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 15:59:32,740 [INFO] user name who is running the code is c
+2022-06-27 15:59:37,615 [INFO] 
+List of all permutations : 
+2022-06-27 15:59:37,615 [INFO] [('1', '5', '3'), ('1', '3', '5'), ('5', '1', '3'), ('5', '3', '1'), ('3', '1', '5'), ('3', '5', '1')]
+2022-06-27 15:59:37,615 [INFO] 
+List of all permutations : 
+2022-06-27 15:59:37,615 [INFO] ['1', '5', '3']
+2022-06-27 15:59:37,616 [INFO] ['1', '3', '5']
+2022-06-27 15:59:37,616 [INFO] ['5', '1', '3']
+2022-06-27 15:59:37,616 [INFO] ['5', '3', '1']
+2022-06-27 15:59:37,616 [INFO] ['3', '1', '5']
+2022-06-27 15:59:37,616 [INFO] ['3', '5', '1']
+2022-06-27 16:05:14,057 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 16:05:14,057 [INFO] user name who is running the code is c
+2022-06-27 16:05:18,245 [INFO] 
+List of all permutations : 
+2022-06-27 16:05:18,245 [INFO] [('1', '5', '3'), ('1', '3', '5'), ('5', '1', '3'), ('5', '3', '1'), ('3', '1', '5'), ('3', '5', '1')]
+2022-06-27 16:05:18,245 [INFO] 
+List of all permutations : 
+2022-06-27 16:05:18,246 [INFO] ['1', '5', '3']
+2022-06-27 16:05:18,246 [INFO] ['1', '3', '5']
+2022-06-27 16:05:18,246 [INFO] ['5', '1', '3']
+2022-06-27 16:05:18,246 [INFO] ['5', '3', '1']
+2022-06-27 16:05:18,246 [INFO] ['3', '1', '5']
+2022-06-27 16:05:18,246 [INFO] ['3', '5', '1']
+2022-06-27 16:08:56,192 [INFO] TITLE
+Python Code to find word by length from list
+2022-06-27 16:08:56,192 [INFO] user name who is running the code is c
+2022-06-27 16:09:00,387 [INFO] 
+List of all permutations : 
+2022-06-27 16:09:00,387 [INFO] [('1', '5', '3'), ('1', '3', '5'), ('5', '1', '3'), ('5', '3', '1'), ('3', '1', '5'), ('3', '5', '1')]
+2022-06-27 16:09:00,387 [INFO] 
+List of all permutations : 
+2022-06-27 16:09:00,388 [INFO] ['1', '5', '3']
+2022-06-27 16:09:00,388 [INFO] ['1', '3', '5']
+2022-06-27 16:09:00,388 [INFO] ['5', '1', '3']
+2022-06-27 16:09:00,388 [INFO] ['5', '3', '1']
+2022-06-27 16:09:00,388 [INFO] ['3', '1', '5']
+2022-06-27 16:09:00,388 [INFO] ['3', '5', '1']
+2022-06-27 16:23:37,401 [INFO] TITLE
+Python Code to find difference between two lists
+2022-06-27 16:23:59,924 [INFO] 
+Difference between ['chakra', 'priya', 'jay'] and ['chakra', 'jay', 'durga'] is : ['priya', 'durga']
+2022-06-27 16:29:57,847 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:30:26,274 [INFO] 
+List of list : [['17', '18'], ['10', '45'], ['7', '8']]
+2022-06-27 16:35:07,643 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:35:37,903 [INFO] 
+List 1 : [2, 4, 8]
+2022-06-27 16:35:37,903 [INFO] 
+List 2 : [1, 3, 5]
+2022-06-27 16:35:37,903 [INFO] 2 4 8 2 4 8
+2022-06-27 16:35:37,903 [INFO] 1 3 5
+2022-06-27 16:35:37,903 [INFO] 
+[2, 4, 8] and [1, 3, 5] are not circularly identical
+
+2022-06-27 16:37:12,631 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:37:27,291 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:37:27,292 [INFO] 
+List 2 : [7, 1, 5]
+2022-06-27 16:37:27,292 [INFO] 1 5 7 1 5 7
+2022-06-27 16:37:27,292 [INFO] 7 1 5
+2022-06-27 16:37:27,292 [INFO] 
+[1, 5, 7] and [7, 1, 5] are circularly identical
+
+2022-06-27 16:38:38,094 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:38:49,834 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:38:49,834 [INFO] 
+List 2 : [7, 1, 5]
+2022-06-27 16:38:49,834 [INFO] 
+[1, 5, 7] and [7, 1, 5] are not circularly identical
+
+2022-06-27 16:39:45,686 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:39:53,959 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:39:53,959 [INFO] 
+List 2 : [7, 1, 5]
+2022-06-27 16:39:53,959 [INFO] 1 5 7
+2022-06-27 16:39:53,959 [INFO] 7 1 5
+2022-06-27 16:39:53,960 [INFO] 
+[1, 5, 7] and [7, 1, 5] are not circularly identical
+
+2022-06-27 16:40:10,300 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:40:20,141 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:40:20,141 [INFO] 
+List 2 : [7, 1, 5]
+2022-06-27 16:40:20,141 [INFO] 1 5 7 1 5 7
+2022-06-27 16:40:20,141 [INFO] 7 1 5
+2022-06-27 16:40:20,141 [INFO] 
+[1, 5, 7] and [7, 1, 5] are circularly identical
+
+2022-06-27 16:41:16,678 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:41:54,547 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:42:24,060 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:42:38,557 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:42:38,557 [INFO] 
+List 2 : [7, 5, 1]
+2022-06-27 16:42:38,557 [INFO] 1 5 7 1 5 7
+2022-06-27 16:42:38,557 [INFO] 7 5 1
+2022-06-27 16:42:38,557 [INFO] 
+[1, 5, 7] and [7, 5, 1] are not circularly identical
+
+2022-06-27 16:42:49,736 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:43:36,605 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:44:37,032 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:44:55,138 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:44:55,138 [INFO] 1 5 7 1 5 7
+2022-06-27 16:44:55,139 [INFO] 5 7 1
+2022-06-27 16:44:55,139 [INFO] 
+[1, 5, 7] and [5, 7, 1] are circularly identical
+
+2022-06-27 16:45:00,379 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:45:00,380 [INFO] 1 5 7 1 5 7
+2022-06-27 16:45:00,381 [INFO] 5 7 1
+2022-06-27 16:45:32,829 [INFO] 
+[1, 5, 7] and [5, 7, 1] are circularly identical
+
+2022-06-27 16:46:20,814 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:46:20,814 [INFO] 1 5 7 2 1 4 1 5 7 2 1 4
+2022-06-27 16:46:20,814 [INFO] 5 7 1 1 2 4
+2022-06-27 16:46:20,814 [INFO] 
+[1, 5, 7, 2, 1, 4] and [5, 7, 1, 1, 2, 4] are not circularly identical
+
+2022-06-27 16:47:24,887 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:47:39,748 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:47:39,748 [INFO] 
+List 2 : [5, 7, 1]
+2022-06-27 16:47:39,748 [INFO] 1 5 7 1 5 7
+2022-06-27 16:47:39,749 [INFO] 5 7 1
+2022-06-27 16:47:39,749 [INFO] 
+[1, 5, 7] and [5, 7, 1] are circularly identical
+
+2022-06-27 16:47:53,857 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 16:48:08,261 [INFO] 
+List 1 : [1, 5, 7]
+2022-06-27 16:48:08,261 [INFO] 
+List 2 : [5, 1, 7]
+2022-06-27 16:48:08,261 [INFO] 1 5 7 1 5 7
+2022-06-27 16:48:08,261 [INFO] 5 1 7
+2022-06-27 16:48:08,261 [INFO] 
+[1, 5, 7] and [5, 1, 7] are not circularly identical
+
+2022-06-27 17:14:24,081 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 17:14:44,590 [INFO] 
+['45', '10', '7'] and ['18', '17', '10'] have common element : ['10']
+2022-06-27 17:16:15,291 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 17:19:57,145 [INFO] TITLE
+Python Code to append a list to the second list
+2022-06-27 17:22:28,315 [INFO] 
+['darshan', 'dakshit', 'meghna'] and ['hemanth', 'deepak', 'jothess'] have common element : []
+2022-06-28 08:20:15,035 [INFO] TITLE
+Python Code to Count string with condition from list
+2022-06-28 08:20:15,035 [INFO] user name who is running the code is chakra
+2022-06-28 08:20:28,989 [INFO] list of values user enters is [(1, 5), (5, 2)]
+2022-06-28 08:20:28,989 [INFO] 
+Sorted list based on tuple last element : [(5, 2), (1, 5)]
+2022-06-28 08:21:31,820 [INFO] TITLE
+Python Code to remove duplicates from list
+2022-06-28 08:21:31,820 [INFO] user name who is running the code is cha
+2022-06-28 08:21:38,106 [INFO] list of values user enters is ['12', '10']
+2022-06-28 08:21:38,106 [INFO] New List after removing duplicates : ['12', '10']
+2022-06-28 08:21:38,106 [INFO] New List after removing duplicates : ['12', '10']
+2022-06-28 08:22:15,297 [INFO] TITLE
+Python Code to remove duplicates from list
+2022-06-28 08:22:15,297 [INFO] user name who is running the code is 1
+2022-06-28 08:22:21,562 [INFO] list of values user enters is ['10', '10', '5']
+2022-06-28 08:22:21,562 [INFO] New List after removing duplicates : ['10', '5']
+2022-06-28 08:22:21,562 [INFO] New List after removing duplicates : ['5', '10']
